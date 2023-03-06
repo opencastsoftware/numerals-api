@@ -1,6 +1,6 @@
-Feature: Cuke testing
+Feature:Cuke
 
-Scenario: Get a numeral
+Scenario: 1 Get a numeral
 Given I want a Roman Numeral for 50
 When I get the numeral
 Then I get "L"
